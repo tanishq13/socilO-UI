@@ -1,0 +1,18 @@
+.container{
+    background-image: url('../../../Assets/pngtree-rainbow-curves-abstract-colorful-background-image_2164067.jpg');
+    position: fixed;
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+}
+.loginForm{
+    width: 30rem;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px;
+}
